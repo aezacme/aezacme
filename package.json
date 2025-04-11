@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/aezacme/aezacme/issues"
   },
-  "homepage": "https://github.com/aezacme/aezacme#readme"
+  "homepage": "https://github.com/aezacme/aezacme#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }

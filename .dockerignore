@@ -1,0 +1,9 @@
+.github
+.scannerwork
+.vscode
+.gitignore
+.gitattributes
+.dockerignore
+sonar-project.properties
+node_modules
+Dockerfile

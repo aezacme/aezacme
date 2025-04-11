@@ -1,2 +1,4 @@
-package-lock.json
 .scannerwork
+.vscode
+package-lock.json
+node_modules
